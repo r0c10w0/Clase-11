@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Blue Period",
+        "author": "Rocio Albanez",
+        "tecnica": "Digital",
+        "foto": "Img/img 1.jpg",
+        "year": "2022",
+        "tamaño": "1080x1350 px",
+        "temas": ["anime"],["blue period"],["Yatora Yaguchi"]
+    },
+    
+    {
+        "name": "Mob",
+        "author": "Rocio Albanez",
+        "tecnica": "Tecnica Mixta",
+        "foto": "Img/img 2.jpeg",
+        "year": "2022",
+        "tamaño": "10,5 × 14,8 cm",
+        "temas": ["anime"],["Mob Pshyco"],["Shigeo Kgeyama"]
+    },
+       {
+        "name": "Sad Ace",
+        "author": "Rocio Albanez",
+        "tecnica": "Acrilico Sobre Vidrio",
+        "foto": "Img/img 3.jpeg",
+        "year": "2022",
+        "tamaño": "15 x 20 cm",
+        "temas": ["anime"],["One Piece"],["Portgas D. Ace"]
+    },
+       {
+        "name": "Blue Period",
+        "author": "Rocio Albanez",
+        "tecnica": "Digital",
+        "foto": "Img/img 1.jpg",
+        "year": "2022",
+        "tamaño": "1080x1350 px",
+        "temas": ["anime"],["blue period"],["Yatora Yaguchi"]
+    },
+      {
+        "name": "Blue Period",
+        "author": "Rocio Albanez",
+        "tecnica": "Digital",
+        "foto": "Img/img 1.jpg",
+        "year": "2022",
+        "tamaño": "1080x1350 px",
+        "temas": ["anime"],["blue period"],["Yatora Yaguchi"]
+    },
+]
